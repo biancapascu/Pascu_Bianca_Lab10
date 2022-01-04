@@ -25,8 +25,6 @@ namespace Pascu_Bianca_Lab10
         {
             InitializeComponent();
             MainPage = new NavigationPage(new ListEntryPage());
-
-          
         }
 
         protected override void OnStart()
